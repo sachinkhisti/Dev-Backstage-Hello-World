@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sachin-hello-world-app
   annotations:
-    github.com/project-slug: sachinkhisti/sachin-hello-world-app
+    #github.com/project-slug: sachinkhisti/sachin-hello-world-app
     backstage.io/techdocs-ref: value
 spec:
   type: website
