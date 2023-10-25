@@ -1,6 +1,6 @@
 apiVersion: backstage.io/v1
 kind: Group
 metadata:
-  name: default/sachin.khisti@wolterskluwer.com
+  name: default/guest
 spec:
   type: team
