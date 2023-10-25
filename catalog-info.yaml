@@ -7,8 +7,5 @@ metadata:
 spec:
   type: website
   lifecycle: hello-world Experience
-  owner: sachin.khisti@wolterskluwer.com
-relations:
-  - type: memberOf
-    target: component:hello-world
+  owner: guests
   
