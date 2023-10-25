@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sachin-hello-world-app
+  annotations:
+    github.com/project-slug: sachinkhisti/sachin-hello-world-app
+spec:
+  type: website
+  lifecycle: hello-world Experience
+  owner: sachin.khisti@wolterskluwer.com
+  
