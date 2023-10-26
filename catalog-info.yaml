@@ -8,4 +8,4 @@ metadata:
 spec:
   type: website
   lifecycle: WK-Dev-Hello-World
-  owner: guest
+  owner: default/guest
