@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Dev-Backstage-Hello-World
-  description: Sachin Khisti Dev Environment of Backstage Application
+  description: Sachin Backstage Dev Env
   tags:
     - Terraform
     - Ansible
@@ -12,4 +12,3 @@ spec:
   type: website
   lifecycle: WK-Dev-Hello-World
   owner: sachin.khisti@wolterskluwer.com
-  
