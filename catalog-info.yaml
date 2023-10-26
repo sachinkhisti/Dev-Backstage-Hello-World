@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Dev-Backstage-Hello-World
-  description: Sachin Backstage Dev Env
+  description: Sachin Backstage
   annotations:
     github.com/project-slug: sachinkhisti/Dev-Backstage-Hello-World
 spec:
