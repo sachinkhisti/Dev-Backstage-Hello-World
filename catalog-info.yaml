@@ -6,7 +6,6 @@ metadata:
   tags:
   - Terraform
   - Ansible
-  - AWS,Azure,GCP
   annotations:
     github.com/project-slug: sachinkhisti/Dev-Backstage-Hello-World
 spec:
