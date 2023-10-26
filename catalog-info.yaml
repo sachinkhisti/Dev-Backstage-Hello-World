@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: sachinkhisti/Dev-Backstage-Hello-World
 spec:
   type: website
-  lifecycle: WK-Dev-hello-world
+  lifecycle: WK-Dev-Hello-World
   owner: sachin.khisti@wolterskluwer.com
   
