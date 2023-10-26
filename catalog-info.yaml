@@ -3,9 +3,6 @@ kind: Component
 metadata:
   name: Dev-Backstage-Hello-World
   description: Sachin Backstage Dev Env
-  tags:
-    - Terraform
-    - Ansible
   annotations:
     github.com/project-slug: sachinkhisti/Dev-Backstage-Hello-World
 spec:
