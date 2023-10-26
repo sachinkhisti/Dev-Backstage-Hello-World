@@ -8,4 +8,5 @@ metadata:
 spec:
   type: website
   lifecycle: WK-Dev-Hello-World
+  system: wk-catalog-portal
   owner: sachin.khisti@wolterskluwer.com
