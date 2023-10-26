@@ -4,8 +4,8 @@ metadata:
   name: Dev-Backstage-Hello-World
   description: Sachin Khisti Dev Environment of Backstage Application
   tags:
-  - Terraform
-  - Ansible
+    - Terraform
+    - Ansible
   annotations:
     github.com/project-slug: sachinkhisti/Dev-Backstage-Hello-World
 spec:
